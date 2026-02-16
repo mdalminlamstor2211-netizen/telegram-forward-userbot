@@ -1,0 +1,13 @@
+{
+  "name": "telegram-forward-userbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "telegram": "^2.19.10",
+    "input": "^1.0.1"
+  }
+}
